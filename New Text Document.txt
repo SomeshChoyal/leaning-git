@@ -1,1 +1,2 @@
 created first text fiile to commit
+how to commitnto different brsnchs
